@@ -1,6 +1,5 @@
-### Hey, I’m Tomas 👋
+<h1 align="center"><b>Hi , I'm Valentina Werle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Matrix GIF" width="150"/>
 
 **Junior Software Developer | JavaScript Enthusiast | Always Learning**
 
