@@ -48,7 +48,7 @@ I’m currently seeking **entry-level or junior software development opportuniti
 ### 👨‍💻 About Me (in code)
 
 ```js
-const tomasOrtega = {
+let tomasOrtega = {
   role: "Junior Software Developer",
   location: "Toronto",
   nationality: "Colombian",
