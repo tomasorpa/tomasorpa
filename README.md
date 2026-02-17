@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi , I'm Tomas Ortega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-**Junior Software Developer | JavaScript Enthusiast | Always Learning**
+**Frontend Engineer | Full-Stack Engineer | JavaScript, React, Node.js | Creating scalable solutions for enterprise challenges**
 
 ---
 
 🚀 Welcome to my GitHub!
-I’m a **junior software developer** focused on building clean, functional, and user-friendly web applications, delivering value through practical, high-quality code.
+I’m a ** Software Engineer** focused on building clean, functional, and user-friendly web applications, delivering value through practical, high-quality code.
 
 I’m currently seeking **entry-level or junior software development opportunities** where I can grow, contribute, and bring immediate value to real-world projects.
 
