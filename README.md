@@ -37,14 +37,6 @@ I’m currently seeking **entry-level or junior software development opportuniti
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasorpa\&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomasorpa\&show_icons=true)
-
----
-
 ### 👨‍💻 About Me (in code)
 
 ```js
